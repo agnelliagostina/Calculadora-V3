@@ -1,0 +1,14 @@
+C:\Users\FD\source\repos\Intento01\Intento03\bin\Debug\net8.0\Intento03.exe
+C:\Users\FD\source\repos\Intento01\Intento03\bin\Debug\net8.0\Intento03.deps.json
+C:\Users\FD\source\repos\Intento01\Intento03\bin\Debug\net8.0\Intento03.runtimeconfig.json
+C:\Users\FD\source\repos\Intento01\Intento03\bin\Debug\net8.0\Intento03.dll
+C:\Users\FD\source\repos\Intento01\Intento03\bin\Debug\net8.0\Intento03.pdb
+C:\Users\FD\source\repos\Intento01\Intento03\obj\Debug\net8.0\Intento03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FD\source\repos\Intento01\Intento03\obj\Debug\net8.0\Intento03.AssemblyInfoInputs.cache
+C:\Users\FD\source\repos\Intento01\Intento03\obj\Debug\net8.0\Intento03.AssemblyInfo.cs
+C:\Users\FD\source\repos\Intento01\Intento03\obj\Debug\net8.0\Intento03.csproj.CoreCompileInputs.cache
+C:\Users\FD\source\repos\Intento01\Intento03\obj\Debug\net8.0\Intento03.dll
+C:\Users\FD\source\repos\Intento01\Intento03\obj\Debug\net8.0\refint\Intento03.dll
+C:\Users\FD\source\repos\Intento01\Intento03\obj\Debug\net8.0\Intento03.pdb
+C:\Users\FD\source\repos\Intento01\Intento03\obj\Debug\net8.0\Intento03.genruntimeconfig.cache
+C:\Users\FD\source\repos\Intento01\Intento03\obj\Debug\net8.0\ref\Intento03.dll
